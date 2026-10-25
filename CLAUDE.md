@@ -1,7 +1,7 @@
 # Doctoral thesis
 
 LaTeX thesis built with LuaLaTeX, biber and latexmk. Setup a person does once
-by hand, such as installing TeX or exporting Unigrafia's title pages, is in
+by hand, such as installing TeX or exporting the university's title pages, is in
 `README.md`.
 
 ## Build and verify
@@ -51,9 +51,9 @@ keys, so the PDF language is set through hyperref instead.
 
 - `publications/list.tex` is the only list of publications. The front matter
   and the appended part both read it.
-- Sizes, fonts and margins in `preamble/layout.tex` follow Unigrafia's spec for
-  Aalto doctoral theses, the first target, until the university is settled.
-  Check the spec before changing them.
+- Sizes, fonts and margins in `preamble/layout.tex` are a placeholder until the
+  university is settled. Then they follow its printer's spec; check the spec
+  before changing them.
 - Name a supervisor, an advisor or a university as the thesis's own in the
   repository only once they have agreed. Until then `metadata.tex` and the
   README say "to be decided", and candidates stay out of the public files.

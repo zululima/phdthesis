@@ -5,9 +5,25 @@ with its commit and pull request. Square brackets mark what was left out or reda
 commit without a prompts section is left out. This file is generated from the commit messages,
 so a change by hand is lost at the next commit.
 
+## Drop the Aalto specifics from the thesis scaffold
+
+2026-10-25, [the commit that last changed this file](https://github.com/lambdakilo/phdthesis/commits/main/PROMPTS.md), model claude-opus-5-5, effort xhigh.
+
+**1.**
+> [a question about supervisor candidates left out]
+
+**2.**
+> [a question about supervisor candidates left out]
+
+**3.**
+> [an ask about email drafts and the language to write them in left
+> out] also make phdthesis description oneliner and onelien also
+> topics there. repo still mentions aalto though im not currently
+> anywehre
+
 ## Check the summary build's own log for undefined references
 
-2026-10-24, [the commit that last changed this file](https://github.com/lambdakilo/phdthesis/commits/main/PROMPTS.md), model claude-opus-5-5, effort xhigh.
+2026-10-24, commit [ab9bdcc](https://github.com/lambdakilo/phdthesis/commit/ab9bdcc5f076cdd0427a2aed8a9e3c0c4e5acb05), model claude-opus-5-5, effort xhigh.
 
 **4.** Quoted under [8d3aa36](https://github.com/lambdakilo/phdthesis/commit/8d3aa36072fd810345ef20116fc2fa3278cfc045).
 

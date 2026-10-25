@@ -18,7 +18,7 @@ pdf:
 summary:
 	$(LATEXMK) -jobname=summary thesis.tex
 
-# Unigrafia wants the overview and each article as separate, numbered PDFs.
+# The printer takes the overview and each article as separate, numbered PDFs.
 print: summary
 	rm -rf dist && mkdir dist
 	cp build/summary.pdf dist/1_$(SURNAME)_thesis.pdf
