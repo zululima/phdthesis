@@ -5,9 +5,18 @@ with its commit and pull request. Square brackets mark what was left out or reda
 commit without a prompts section is left out. This file is generated from the commit messages,
 so a change by hand is lost at the next commit.
 
+## Link the thesis PDF on zululima.github.io
+
+2026-10-27, [the commit that last changed this file](https://github.com/zululima/phdthesis/commits/main/PROMPTS.md), model claude-opus-5-5, effort xhigh.
+
+**8.** (answer to whether the rename and the account are done)
+> i renamed to zululima, made the lambdakilo account, created
+> lambdakilo.github.io there and added zululima as collaborator. do the
+> rest
+
 ## Drop the Aalto specifics from the thesis scaffold
 
-2026-10-25, [the commit that last changed this file](https://github.com/lambdakilo/phdthesis/commits/main/PROMPTS.md), model claude-opus-5-5, effort xhigh.
+2026-10-25, commit [36031d0](https://github.com/zululima/phdthesis/commit/36031d02a562d24bd935c2300af07db3c52e09ca), model claude-opus-5-5, effort xhigh.
 
 **1.**
 > [a question about supervisor candidates left out]
@@ -23,20 +32,20 @@ so a change by hand is lost at the next commit.
 
 ## Check the summary build's own log for undefined references
 
-2026-10-24, commit [ab9bdcc](https://github.com/lambdakilo/phdthesis/commit/ab9bdcc5f076cdd0427a2aed8a9e3c0c4e5acb05), model claude-opus-5-5, effort xhigh.
+2026-10-24, commit [ab9bdcc](https://github.com/zululima/phdthesis/commit/ab9bdcc5f076cdd0427a2aed8a9e3c0c4e5acb05), model claude-opus-5-5, effort xhigh.
 
-**4.** Quoted under [8d3aa36](https://github.com/lambdakilo/phdthesis/commit/8d3aa36072fd810345ef20116fc2fa3278cfc045).
+**4.** Quoted under [8d3aa36](https://github.com/zululima/phdthesis/commit/8d3aa36072fd810345ef20116fc2fa3278cfc045).
 
 ## Look at the rendered pages after a layout change
 
-2026-10-24, commit [8d3aa36](https://github.com/lambdakilo/phdthesis/commit/8d3aa36072fd810345ef20116fc2fa3278cfc045), model claude-opus-5-5, effort xhigh.
+2026-10-24, commit [8d3aa36](https://github.com/zululima/phdthesis/commit/8d3aa36072fd810345ef20116fc2fa3278cfc045), model claude-opus-5-5, effort xhigh.
 
 **4.**
 > [a request to review Claude Code's dream proposals left out]
 
 ## Reword the plan's programme section for a supervisor reader
 
-2026-10-22, commit [4c8f579](https://github.com/lambdakilo/phdthesis/commit/4c8f579e500d3bad03ccc78aecc5ad84cf3a597b), model claude-opus-5-5, effort xhigh.
+2026-10-22, commit [4c8f579](https://github.com/zululima/phdthesis/commit/4c8f579e500d3bad03ccc78aecc5ad84cf3a597b), model claude-opus-5-5, effort xhigh.
 
 **10.**
 > [a question about a supervision email, left out: it names candidates
@@ -48,28 +57,28 @@ so a change by hand is lost at the next commit.
 
 ## Retarget the plan at the shortest route to a doctorate
 
-2026-10-20, commit [7418ec2](https://github.com/lambdakilo/phdthesis/commit/7418ec21d639859309413acc8db0e1891e4d5376), model claude-opus-5-5, effort xhigh.
+2026-10-20, commit [7418ec2](https://github.com/zululima/phdthesis/commit/7418ec21d639859309413acc8db0e1891e4d5376), model claude-opus-5-5, effort xhigh.
 
 **9.**
 > [left out at the user's request]
 
 ## Publish the thesis PDF on GitHub Pages like mscthesis
 
-2026-10-19, commit [9723194](https://github.com/lambdakilo/phdthesis/commit/9723194e7a9e38fa607837445db27bba4d1caca8), model claude-opus-5-5, effort xhigh.
+2026-10-19, commit [9723194](https://github.com/zululima/phdthesis/commit/9723194e7a9e38fa607837445db27bba4d1caca8), model claude-opus-5-5, effort xhigh.
 
 **8.**
 > host my pdf the same way i did on mscthesis on github pages
 
 ## Add PROMPTS.md with the prompts behind every commit
 
-2026-10-19, commit [1c14103](https://github.com/lambdakilo/phdthesis/commit/1c141035241f8db8e8e5b0f84f12ef8c1bfbab91), model claude-opus-5-5, effort xhigh.
+2026-10-19, commit [1c14103](https://github.com/zululima/phdthesis/commit/1c141035241f8db8e8e5b0f84f12ef8c1bfbab91), model claude-opus-5-5, effort xhigh.
 
 **7.**
 > same thing for the prompts.md on this repo
 
 ## Add the research plan with a Samourai case study
 
-2026-10-17, commit [0e3e0d4](https://github.com/lambdakilo/phdthesis/commit/0e3e0d4532c1f3a67d5da2347c61c4f8d2c25f0d), model claude-opus-5-5, effort xhigh.
+2026-10-17, commit [0e3e0d4](https://github.com/zululima/phdthesis/commit/0e3e0d4532c1f3a67d5da2347c61c4f8d2c25f0d), model claude-opus-5-5, effort xhigh.
 
 **4.**
 > can you move this to src/phdthesis and git attach it to github
@@ -95,7 +104,7 @@ so a change by hand is lost at the next commit.
 
 ## Scaffold an article-based Aalto doctoral thesis in LaTeX
 
-2026-10-17, commit [906d1c8](https://github.com/lambdakilo/phdthesis/commit/906d1c8902c763b49860c767979081adc99646da), model claude-opus-5-5, effort xhigh.
+2026-10-17, commit [906d1c8](https://github.com/zululima/phdthesis/commit/906d1c8902c763b49860c767979081adc99646da), model claude-opus-5-5, effort xhigh.
 
 **1.**
 > can you list the latest phds vili lehdonvirta has directed?

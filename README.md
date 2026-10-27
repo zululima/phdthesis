@@ -6,7 +6,7 @@ professor are not settled yet. The research plan and the programmes under
 consideration are in [`PLAN.md`](PLAN.md).
 
 The latest draft is at
-[lambdakilo.github.io/phdthesis/thesis.pdf](https://lambdakilo.github.io/phdthesis/thesis.pdf),
+[zululima.github.io/phdthesis/thesis.pdf](https://zululima.github.io/phdthesis/thesis.pdf),
 served by GitHub Pages from the `thesis.pdf` committed on `main`.
 
 ## Format

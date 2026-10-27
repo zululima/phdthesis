@@ -58,7 +58,7 @@ keys, so the PDF language is set through hyperref instead.
   repository only once they have agreed. Until then `metadata.tex` and the
   README say "to be decided", and candidates stay out of the public files.
 - `make` copies the PDF to `thesis.pdf` at the root, which GitHub Pages serves
-  from `main` at https://lambdakilo.github.io/phdthesis/thesis.pdf. Rebuild it
+  from `main` at https://zululima.github.io/phdthesis/thesis.pdf. Rebuild it
   and commit it with every change to what the PDF shows.
 - British English in the text.
 - Prose is CC BY-SA 4.0 and everything else AGPL-3.0-or-later. A new prose
